@@ -1,0 +1,18 @@
+# Maven build output
+target/
+
+# Local or superseded working artifacts
+output-small/
+CONTINUATION.md
+cloudsim_reimplementation/
+
+# The publisher PDF and its full extracted text are intentionally not redistributed.
+Joint_optimization_of_resource_utilization_and_mak.pdf
+paper.txt
+
+# Common editor and operating-system files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
